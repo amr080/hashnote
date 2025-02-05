@@ -7,73 +7,67 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/0001968399-23-000002.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/1499783502ListMutualFunds_CIMA.pdf</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/IDENTITY ACCESS MGMT USER MANUAL CIMA.pdf</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/REEFS-APP-101-84-05ApplicationforVirtualAssetsServiceProviderRegistration_Dec03v3__1734094786.pdf</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/Risk Management Policy - Hashnote Management.docx.pdf</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/[USYC] Collateral Application - Hashnote.pdf</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/hashnote-usyc.csv</loc>
+        <loc>https://hashnote-usyc.netlify.app/001/www.hashnote.com/products/cash-management.html</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/image price.png</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/image.png</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/subscribe_section1.png</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/usyc_redemption_flow_diagram.png</loc>
+        <loc>https://hashnote-usyc.netlify.app/001/www.hashnote.com/products/crypto-yield-and-hedging-strategies.html</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/assets/usyc_subscription_flow_diagram.png</loc>
+        <loc>https://hashnote-usyc.netlify.app/001/www.hashnote.com/products/harbor.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/001/www.hashnote.com/products/opportunistic-stablecoin-yield-strategy.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/002/usyc.hashnote.com/index.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/003/portal.hashnote.com/dashboard.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/003/portal.hashnote.com/index.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/about.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/blog/hashnotes-usyc-now-live-on-deribit.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/blog/hashnotes-yield-bearing-usyc-is-now-available-with-privacy-on-the-canton-network.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/blog/qcp-integrates-usyc-hashnote-as-collateral-for-digital-asset-strategies.html</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -85,58 +79,10 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/c/enter_and_exit_usyc.sol</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/c/enter_and_exit_usyc.ts</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/c/etherscan_ui_enter_exit_usyc.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/cima_data.txt</loc>
+        <loc>https://hashnote-usyc.netlify.app/contact-us.html</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/contract_addresses.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/defillama.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/fees.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/flows.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/hashnote_exec_summary.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://hashnote-usyc.netlify.app/index.html</loc>
@@ -145,13 +91,19 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/index_001.html</loc>
+        <loc>https://hashnote-usyc.netlify.app/ip.txt</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/legal.txt</loc>
+        <loc>https://hashnote-usyc.netlify.app/ip_block.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/legal-disclosures.html</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -163,13 +115,313 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/notes.txt</loc>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articles.html</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/primary_doc.xml</loc>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=1.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=2.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=3.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=4.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=5.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=6.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=7.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=8.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/articlese19df5ec_page=9.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/blogs.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/landing.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/market-commentary.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/market-commentary90fca258_page=1.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/market-commentary90fca258_page=2.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/newsroom/videos.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/privacy-policy.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/products/cash-management.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/products/crypto-yield-and-hedging-strategies.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/products/harbor.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/products/opportunistic-stablecoin-yield-strategy.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/0001968399-23-000002.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/1499783502ListMutualFunds_CIMA.pdf</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/IDENTITY ACCESS MGMT USER MANUAL CIMA.pdf</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/REEFS-APP-101-84-05ApplicationforVirtualAssetsServiceProviderRegistration_Dec03v3__1734094786.pdf</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/Risk Management Policy - Hashnote Management.docx.pdf</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/[USYC] Collateral Application - Hashnote.pdf</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/hashnote-usyc.csv</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/image price.png</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/image.png</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/subscribe_section1.png</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/usyc_redemption_flow_diagram.png</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/assets/usyc_subscription_flow_diagram.png</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/c/enter_and_exit_usyc.sol</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/c/enter_and_exit_usyc.ts</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/c/etherscan_ui_enter_exit_usyc.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/cima_data.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/contract_addresses.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/defillama.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/fees.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/flows.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/hashnote_exec_summary.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/index.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/index_001.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/legal.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/notes.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/primary_doc.xml</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/step_hashnote_usyc.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/usyc_collateral_application_sparkdao_hashnote.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/usyc_hashnote_api.txt</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/vercel.json</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/research/x.txt</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -187,31 +439,19 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/step_hashnote_usyc.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/usyc_collateral_application_sparkdao_hashnote.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/usyc_hashnote_api.txt</loc>
-        <lastmod>2025-02-05</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://hashnote-usyc.netlify.app/vercel.json</loc>
+        <loc>https://hashnote-usyc.netlify.app/terms-and-conditions.html</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://hashnote-usyc.netlify.app/x.txt</loc>
+        <loc>https://hashnote-usyc.netlify.app/under-construction.html</loc>
+        <lastmod>2025-02-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hashnote-usyc.netlify.app/urls_20250205.txt</loc>
         <lastmod>2025-02-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
