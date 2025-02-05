@@ -1,0 +1,17 @@
+LINK 
+https://defillama.com/protocol/hashnote-usyc
+
+PROTOCOL
+Hashnote is a regulated DeFi platform with permissioned smart contracts, on-chain transparency, and customizable investment strategies for optimized risk-reward profiles. USYC is a Hashnote product which provides exposure to short duration US Treasuries and Reverse Repo on US Treasuries
+
+Competitors
+Maker RWA($1.392b)
+Usual($1.195b)
+Tether Gold($701.84m)
+Ondo Finance($652.94m)
+Paxos Gold($585.24m)
+BlackRock BUIDL($584.28m)
+Franklin Templeton($553.73m)
+Spiko($163.25m)
+OpenEden($132.96m)
+RealT Tokens($130.49m)
