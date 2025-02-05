@@ -44,4 +44,15 @@ High-Level Process
 CIMA
 https://www.ciregistry.ky/
 https://www.cima.ky/
-https://am.online.gov.ky/sso/XUI/?realm=/#/service/CosRegistration
+https://www.cima.ky/search-entities-cima
+
+
+Reference Number	Name	Type	Status Effective Date	Status
+2032564	Hashnote International Feeder Fund LP	Mutual Fund - Registered	15-Mar-2023	ACT
+2055432	Hashnote International Short Duration Yield Fund Ltd	Mutual Fund - Registered	10-Jul-2023	ACT
+2052960	Hashnote Master Fund LP	Mutual Fund - Master Fund	16-Jun-2023	ACT
+
+
+2032564 Hashnote International Feeder Fund LP
+2055432 Hashnote International Short Duration Yield Fund Ltd
+2052960 Hashnote Master Fund LP
