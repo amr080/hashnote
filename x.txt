@@ -1,0 +1,44 @@
+Total Raise	$0 USD
+Soft Cap	$0 USD
+Raise Status	Active
+Minimum Investment	$100,000 USD
+Accepted Investors	International Non-US
+Exemptions	N/A
+Instrument	Fund LP Units
+Token Issuance Info	N/A
+
+
+Price Per (USYC)	$1.08 USD  (0%)
+Token Issuance Platform	Hashnote
+Secondary Marketplace	Hashnote
+Blockchains Available On	Ethereum
+Security Type	Lp Fund Interest
+Asset Class	Pooled Investment Fund Interest
+Payment Options	USD
+Token Rights
+
+SDYF invests in short-term US Treasury Bills and performs repo / reverse-repo activity as the underlying asset of the USYC token
+
+
+
+
+
+
+
+Overview
+USYC is the on-chain representation of the Hashnote International Short Duration Yield Fund Ltd. ("SDYF").
+SDYF invests primarily in reverse repo on U.S. Government backed securities.
+
+Being invested in overnight repo means minimized market risk, duration risk, and credit risk -- as good as being in a U.S. Treasury Money Market fund, but with the transaction speed, transparency, and composability of being an ERC-20. USYC lets you earn short-term risk free returns. Assets are deployed in reverse repo, with some allocated to T-Bills, to ensure maximum liquidity and minimum duration risk.
+
+Highlights
+Subscription Currency: USD (fiat), USDC, USDT, PYUSD
+Subscription Fee: None for PYUSD and USDC, 0.10% for USDT
+Redemption Fee: None for PYUSD, 0.10% for USDC
+Mint / Redeem Time: T+0 to T+1 into USDC or PYUSD. On-chain mint available only during “market hours”. On-chain redemption available at any time but for limited size.
+Performance Fee: 10% of Yield
+
+
+
+
+
