@@ -1,0 +1,28 @@
+HASHNOTE API ENDPOINTS USYC 
+
+MAINNET 
+Current Price
+https://usyc.hashnote.com/api/price
+Historical price reports
+https://usyc.hashnote.com/api/price-reports
+Access to USYC
+https://api.hashnote.com/v1/entitlements/token_access?address={address}&symbol=USYC
+
+SEPOLIA 
+Current Price
+https://usyc.dev.hashnote.com/api/price
+Historical price reports
+https://usyc.dev.hashnote.com/api/price-reports
+Access to USYC
+https://api.dev.hashnote.com/v1/entitlements/token_access?address={address}&symbol=USYC
+
+
+
+
+
+
+
+
+
+
+
