@@ -1,0 +1,285 @@
+LINK
+https://forum.sky.money/t/usyc-collateral-application-hashnote-s-us-yield-coin/25050/1
+
+
+
+[USYC] Collateral Application - Hashnote’s US Yield Coin
+Summary
+Token name: USYC
+Entity: Hashnote International Short Duration Yield Fund Ltd. (“SDYF”)
+Website: https://usyc.hashnote.com 
+Token standard: ERC-20
+Network: Ethereum
+Type: On-chain. Short-term risk free
+Underlying asset: Reverse repo (RRP) and U.S. Government backed securities
+Liquidity: instant, same day (T+0) or the next day (T+1) based on amount and redemption currency
+Currency: pyUSD, USDC, USDT, USD (fiat)
+Yield: 4.774% Est. Yield (Net of Fees)
+AUM: $259,642,932.13 AUM  September 11, 2024 (UTC) (usyc.hashnote.com)
+Regulators: CFTC, CIMA
+Overview: Steakhouse Financial Overview of USYC
+Subscription Fee: None for fiat, PYUSD and USDC // 0.10% for USDT
+Redemption Fee: None for fiat, PYUSD and USDT // 0.10% for USDC
+Performance Fee: 10% of Yield.
+Background Information
+1. Who is the interested party for this collateral application?
+
+Hashnote International Short Duration Yield Fund Ltd. (“SDYF”)
+
+2. Provide a brief high-level overview of the project, with a focus on the applying collateral token.
+
+USYC (US Yield Coin) is the on-chain representation of Hashnote’s Short Duration Yield Fund (SDYF). SDYF is primarily invested in overnight reverse repo, cash, and stablecoins.
+
+USYC earns short-term risk-free rate returns. The fund benefits from the transaction speed, transparency, and composability of tokenization while eliminating virtually all of the protocol, custody, regulatory, and credit risks associated with other token projects.
+
+3. How long has the project been live in production?
+
+In 2022, we founded Hashnote recognizing the pivotal role blockchain-based transparency and settlement would play in future financial transactions. Witnessing the user-unfriendliness of on-chain activities, we launched Hashnote: your on-chain asset manager.
+
+USYC has been in production since July 2023.
+
+4. Provide a brief history of the project.
+
+We are a global team of professionals with a combined 50+ years in traditional finance / banking, options trading, software engineering, and blockchain technology at global trading and investment companies.
+
+Leo Mizuhara is CEO & Founder.
+Leo spent 12 years at Bank of America, eventually departing as Managing Director managing the bank’s assets and liabilities as part of Corporate Investments. From there he spent five years running Fixed Income Currencies and Commodities Systematic Options Trading at DRW before launching Hashnote with DRW’s support.
+
+5. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
+
+Documentation:
+https://usyc.docs.hashnote.com
+
+Hashnote Risk Management Policy:
+https://drive.google.com/file/d/1IOaz_pZfLVpQm_iNmQddPwDhU4iE3arv/view?usp=sharing
+
+Smart-contracts:
+https://usyc.docs.hashnote.com/overview/smart-contracts
+
+ERC20 0x136471a34f6ef19fE571EFFC1CA711fdb8E49f2b
+
+Mainnet Historical price reports:
+https://usyc.hashnote.com/api/price-reports
+
+subscribe_section1
+subscribe_section1
+920×680 39.4 KB
+image price
+image price
+850×176 6.49 KB
+Asset Information
+6. What type of asset is it? (e.g. store of value, currency, commodity, capital asset, governance token etc.)
+
+The asset is a USYC - USD Yield-bearing token generating returns from its exposure to the United States Treasury Market. SDYF invests primarily in reverse repo and U.S. Government backed securities.
+
+7. How is the asset used and does it give any rights to holders? (e.g. financial claims, dividends, governance rights)
+
+Investors holding USYC are shareholders in the SDYF and have redemption rights to the underlying share of SDYF under Cayman’s law. Investors subscribe into the SDYF for participating shares at that day’s current price. Shareholders, including the DAO, would have rights under Cayman’s bankruptcy law to assets of the fund.
+
+8. What is the market cap for the asset?
+
+$259,642,932.13 AUM  September 11, 2024 (UTC) (usyc.hashnote.com)
+
+9. Where does exchange for the asset occur?
+
+For USDC and PYUSD one can mint via Hashnote’s “Teller” smart contracts for an atomic on-chain mint of USYC. Burning (redemption) can occur the same way via smart contract back into USDC or PYUSD.
+
+Alternatively, onboarded users can use a “manual” method of sending Hashnote fiat, USDC, USDT or PYUSD. Hashnote then mints into the investor’s wallet an amount of USYC tokens equivalent to the number of shares the investor has in the SDYF. Again, burning (redemption) occurs through the same path of the customer burning USYC and then being sent back their stablecoin or fiat.
+
+Instructions for above can be found at: Subscription & Redemption | USYC
+
+The amount of USYC the investor receives is equal to the deposit amount divided by the current Price of USYC. The investor’s ownership of this fund is reflected on a blockchain via a permissioned ERC-20 smart contract.
+
+9.a Provide exchange data on market liquidity, volume and order book depth.
+
+USYC can be minted at any time for any size with no transaction fees.
+Redemption occurs T+0 to T+1 into fiat, USDC, USDT or PYUSD via the “manual” method.
+
+Atomic on-chain instant mint / redeem available for size shown in “Teller” smart contract for the sizes shown real-time at https://usyc.hashnote.com . These sizes are refilled regularly.
+
+Exchange availability does not necessarily make sense given the fee-free availability through Hashnote vs the bid-offer that one would have to pay on exchange.
+
+10. Is the asset settled on chain (trustless) or off chain (trusted)?
+
+USYC is the on-chain representation of the off-chain Hashnote International Short Duration Yield Fund Ltd. (“SDYF”).
+
+11. If offchain (trusted) settlement: describe what are the involved entities, process and estimated time.
+
+SDYF, backing USYC, holds overnight reverse repos and stablecoins. The nature of overnight reverse repo is that we are in cash 100% every day by about 7am US Eastern Time and thus can liquidate assets for redemptions on any business day without any slippage. Entities involved are Bank of NY Mellon (Custodian), Marex (Prime Broker), Customers Bank (Bank), and potentially a market maker, Circle, Paxos, or Tether for stablecoin conversion.
+
+12. List any possible oracle data sources for the proposed collateral type.
+
+The USYC Oracle adheres to the Chainlink aggregator interface.
+
+Mainnet Oracle 0x4c48bcb2160F8e0aDbf9D4F3B034f1e36d1f8b3e
+Etherscan https://etherscan.io/address/0x4c48bcb2160F8e0aDbf9D4F3B034f1e36d1f8b3e#readProxyContract
+ABI https://etherscan.io/address/0x3B7ad4835d817181592788A7E6D588D334e0426b#code"
+13. List any parties interested in taking part in liquidations for the proposed collateral type.
+
+Several major market makers are dedicated to providing liquidity for USYC. We can not disclose their names without use of an NDA with Maker.
+
+Business Questions
+14. What is/are the expected use case(s) of the Dai generated by the vault?
+
+We would like to move toward getting DAI used as collateral at centralized exchanges, where the majority of trading activity occurs. As USYC is accepted as collateral on exchanges, it will be of interest to be able to instant redeem USYC into stables. If Maker takes USYC as collateral, it gives an avenue for DAI inclusion in CEX market collateral.
+
+15. What is the amount of Dai expected to be generated against the collateral and what is the timeline? Is there a commitment on a minimum amount of Dai to be generated?
+
+This is unknown. Many parties will give some inflated estimate of what they will generate, but any answer to this question is either purely speculative or temporarily subsidized.
+
+16. What are the strategic benefits for MakerDAO in onboarding the collateral?
+
+USYC is being included in major exchanges. By being able to take USYC into treasury, and being an asset that can mint DAI, there appears additional pressure for exchanges to accept DAI as collateral.
+
+Hashnote will support Maker’s long-terms goals, as we effectively combine the “real” and “decentralized” worlds as well.
+
+Legal Questions
+17. What are the legal risks associated with the tokens?
+
+Risk of product design and/or execution not resulting in intended commercial or customer outcomes
+
+Hashnote Risk Management Policy:
+https://drive.google.com/file/d/1IOaz_pZfLVpQm_iNmQddPwDhU4iE3arv/view
+
+All investments in SDYF are held bankruptcy-remote at our custodian, BNY Mellon, via primebroker, Marex.
+
+18. (Optional) Does one organization bear legal responsibility for the collateral? What jurisdiction does that organization reside in?
+
+Hashnote International Short Duration Yield Fund Ltd (SDYF), the entity providing the USYC product, is domiciled in the Cayman Islands. CIMA Mutual Fund Registration #: 2055432
+
+To check:
+
+Go to CIMA portal
+In the text box, type “Hashnote”.
+Then without cheating, prove that you are human - MouseClick on “I am not a robot” checker.
+Click “Submit” button. There will appear a list of Hasnote funds, included mentioned.
+19. Is issuance of the asset decentralized (trustless) or centralized (trusted)?
+
+Centralized
+
+20. If centralized/trusted: by which legal entity, type of entity and jurisdiction?
+
+Hashnote International Short Duration Yield Fund Ltd (SDYF), the entity providing the USYC product, is domiciled in the Cayman Islands
+
+Technical Questions
+21. Link any available audits of the project. Both procedural and smart contract focused audits.
+
+Can be provided privately
+
+22. Has the token (and/or supporting protocol) been formally verified?
+
+No
+
+23. Does the asset follow a token standard? (E.g. ERC20, ERC721, ERC1400)
+
+Token Standard: ERC-20
+
+24. Is the asset, or asset balances, controlled by a central actor, or group of actors (e.g. through a multisig, or DAO)?
+
+USYC generates returns from its exposure to the United States Treasury Market.
+
+25. Does the token have whitelist or blacklist functions? If so, what is the process for utilization and what stakeholders are involved?
+
+KYC/AML Compliance and Whitelist.
+The Fund and USYC tokens are available to “whitelisted” investors who have passed checks for suitability, anti-money laundering, or “know your client” verification. Only the whitelisted users can subscribe for or acquire tokens on the secondary market. Generally, transfers of shares between these accounts are permitted without prior authorization.
+
+USYC Transfer Restrictions.
+Upon subscription, the Fund will transfer USYC tokens equal to the number of Shares purchased to the investor’s Hashnote client wallet or a whitelisted external blockchain address per the Fund’s KYC policies. For redemptions, the Fund will remove USYC tokens corresponding to the number of Shares being redeemed from the investor’s Hashnote client wallet. If an investor holds USYC tokens in a whitelisted address, redemptions must be initiated by transferring the equivalent USYC tokens to a designated Fund redemption wallet.
+
+Transfers of USYC tokens between Hashnote client wallets and/or whitelisted addresses (whitelisted transfers) will be treated as Share transfers between the respective investors and recorded by the Administrator. The Investment Manager allows whitelisted transfers without prior authorization but may annul transfers violating regulatory obligations.
+
+The Investment Manager may declare non-whitelisted transfers ineffective, annulling them by burning the transferred USYC tokens and minting new tokens to the sender’s wallet. Investors may pledge, transfer, or encumber USYC tokens as they can with their Shares."
+
+26. Does the token contain rebasing logic?
+
+No
+
+The following questions apply to RWA collateral onboarding applications only:
+27. Provide (a) proposed legal structure for transaction, including: type of legal entities, (offshore/onshore, form (trust, corporate, other)) and jurisdiction(s) of legal entities, and (b) likely funds flow (DAI => Fiat => DAI).
+
+Entity on Maker side has to be onboard with Hashnote (for example, the same entity which is onboarded with BlockTower), then the rest of the transactions would be just on-chain.
+Minting USYC drops DAI, which we would be able to use to redeem DAI for other crypto. Then we can turn those into fiat and send to Marex, thereby involve it to Get Yield.
+
+28. Provide details on the organizational structure of the interested party, beneficial ownership, governance/control, key personnel, capital/funding resources and past financial performance.
+
+Leo Mizuhara | CEO
+Leo Mizuhara is the Founder and CEO of Hashnote, an institutional DeFi asset management company regulated by the CFTC and registered with CIMA. Prior to founding Hashnote, Leo ran Systematic Trading Desk for FICC Options at DRW for five years…
+He also spent 12 years at Bank of America as a managing director and senior portfolio manager in the Corporate Investments Group in New York, managing fixed income securities and derivatives exposures on the bank’s balance sheet."
+
+David Shapiro | CTO
+David has been an entrepreneur for the past 12 years. Before Hashnote, David Co-founded and led product and engineering as CTO of Scout Security (ASX), a security-focused IoT firm. Later he served as VP of Engineering at Latch Inc (NASDAQ). David has also developed hybrid-chain protocols to optimize yield farming and execute arbitrage between decentralized exchanges.
+
+Andrew Ridenour | Chief Regulatory Officer
+Experienced regulator and in-house counsel, with an emphasis on derivatives and blockchain incubation as Special Counsel to the CFTC Chair, General Counsel at Cumberland Labs, and Institutional Counsel at Coinbase."
+
+Jason Leibowitz | MD, Head of Private Wealth
+Jason has been in the digital asset space since 2014 when he partnered at a hedge fund that actively managed a portfolio of digital assets. From there he joined Credit Suisse, co-founding the blockchain technology team, before launching his own firm in 2020 which focused on High Net Worth Individuals and Family Offices who needed high-touch assistance allocating investment portfolios to the crypto asset class.
+
+Alex Walchli | VP of Engineering
+Alex has been a technologist for the past 14 years, with the last 8 in the finance industry. For the last several years he has worked closely with Leo, leading the development of a new product suite of trading applications for the Fixed Income Currencies and Commodities trading group within DRW. Before that, he was the Director of Engineering at ZeroHash, a cryptocurrency infrastructure platform.
+
+29. Provide detailed summary of the proposed economic terms of the transaction, including, without limitation: commitment term, principal amount, interest rate, frequency of principal and interest payments, disbursement schedule, equity amount, funding ratios (equity/debt pro rata, equity first, etc.), collateral security, coverage ratios, currency (if not DAI) and other material terms. The quality of the proposed economic terms will be a consideration for the prioritization process.
+
+principal amount: $259,642,932.13 AUM  September 11, 2024 (UTC) (usyc.hashnote.com)
+interest rate: 4.774% Est. Yield (Net of Fees)
+disbursement schedule: Mint / redeem time T+0 to T+1 into USDC or PYUSD
+funding ratios (equity/debt pro rata, equity first, etc.): USYC price is calculated based on the Net Asset Value (NAV) of the Prime Brokerage account divided by the total supply of USYC on issue
+image price
+image price
+850×176 6.49 KB
+collateral security: RRP (Reverse repo), short-dated U.S. Treasury securities, stablecoins or cash.
+currency (if not DAI): pyUSD, USDC, USDT, USD (fiat)
+30. Identify in reasonable detail the risks associated with this collateral application and the underlying asset(s) and proposed mitigants (if any). The risk summary should address, without limitation and to the extent relevant: market risks, commercial risks (e.g., diversification, credit, etc.), interest rate risks, legal and regulatory risks, general industry risks, competition, etc.
+
+USYC has been designed to reflect the robust regulatory risk controls to be better than that of traditional finance. Every redemption is reflected onchain, and holders of USYC are able to verify the price value of their asset at any time onchain.
+
+Strategic Risk – Recognising the changing economy and market, Hashnote has a low tolerance for risk that could threaten the outcome of its strategic business initiatives and does not place more than USD 1,000,000 of its Year 1 Net Income at risk.
+
+Financial Risk – Hashnote has no tolerance for any loss that results in the business having less capital and assets to satisfy its financial obligations.
+
+Operational Risk – Hashnote has some tolerance for loss resulting from inadequate people, processes or systems, recognising that as a newly created business entity the risk and control environment is expected to mature as this Policy is embedded. Hashnote has a tolerance for total operational losses of no more than USD 500,000 in a single year.
+
+Regulatory Risk - Hashnote seeks to comply with all applicable laws and regulations, including those related to financial crime. Hashnote has no tolerance for any activity that would require disclosure to the Hashnote’s regulators.
+
+Reputational Risk – Hashnote has no tolerance for decisions, relationships, transactions, or business practices that would result in irrevocable damage to stakeholder confidence or materially jeopardize the value of the Hashnote’s brand."
+
+31. Outline the applicant’s underwriting guidelines/policies, origination strategy (marketing, sales, channels), servicing strategy (charge-offs, collections), and historical asset performance.
+
+Given that SDYF only invests in reverse repo on us government securities, no additional underwriting, origination, and servicing strategy is needed. It has always returned reverse repo rates minus fees to our customers as can be seen on https://usyc.hashnote.com
+
+32. Outline the applicant’s risk monitoring and operations guidelines/policies (e.g., charge-offs, collection, recovery provisions, data collection and technology, etc).
+
+Hashnote maintains written procedures for particular business and operational processes designed to ensure a separation of duties, which will remain confidential to the Firm. These procedures will ensure that:
+
+Duties are assigned to different employees in a manner, or there are appropriate automated controls, that ensure that there is regular cross-checking of the work performed in material areas;
+
+Operational functions relating to the custody of pool assets are separated from financial reporting functions such as recordkeeping/accounting for the assets; and
+
+In the pool funds area (e.g., subscriptions, transfers and redemptions), no one person is responsible for initiating a transaction, approving a transaction, recording a transaction and reconciling an account to third party documentation and information.
+
+Procedures around pool subscriptions, redemptions, and transfers are specifically designed to provide reasonable protections to client and pool assets, including:
+
+Verification that pool investments are held in accounts properly titled with the pool’s name and are not commingled with the assets of any other person (this is also an appropriate control for risk management and investment and valuation of pools funds);
+
+Reconciliation (on a periodic basis) of transactions between the pool’s general ledger, banks, and other third party depositories (this is also an appropriate control for risk management and investment and valuation of pools funds);
+
+Authorization of redemptions, including verification that the request is made by a participant, adequate funds are available, the proper Net Asset Value has been calculated (e.g., fee calculations and profit and loss allocations) and the proper amount of funds is released, and timely payment is made to a pool participant or authorized third party; and
+
+Verification that transactions involving pool funds do not violate NFA Compliance Rule 2-45,
+
+Prohibition of Loans by Commodity Pools to CPOs and Affiliated Entities.
+
+33. Describe the regulatory regime applicable to the underlying asset (if any) and the applicant’s legal and compliance program relating thereto.
+
+Hashnote Management LLC is registered as a Commodity Pool Operator (CPO) and Commodity Trading Advisor (CTA) with the National Futures Association (NFA), and it is regulated by the Commodity Futures Trading Commission (CFTC). Hashnote’s US funds are regulated by CFTC, and the offshore fund is registered as a mutual fund, regulated by the Cayman Islands Monetary Authority (CIMA). We adhere to strict regulations, ensuring our operations meet institutional investment standards.
+
+34. Identify any 3rd party persons likely to be relied upon by applicant to implement the transaction (legal, accounting, servicers, trustees, etc.).
+
+Custodian Bank of NY Mellon
+Liquidity Provider Cumberland DRW LLC
+Prime Broker Marex Capital Markets Inc.
+Fund Administrator; KYC Services NAV Fund Services (Cayman) Ltd.
+AML Service Provider LMO Consulting Pte. Ltd.
+Wallet Screening Services: Godwin Austen Advisory Pte. Ltd.
+Auditor: Cohen & Co International
+Bank: Customers Bank
