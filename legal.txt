@@ -1,0 +1,44 @@
+STABLECOIN
+USYC (US Yield Coin)
+
+FUND 
+Hashnote’s Short Duration Yield Fund (SDYF)
+
+ISSUING ENTITY
+Hashnote Management LLC 
+  Commodity Pool Operator (CPO)
+  Commodity Trading Advisor (CTA)
+  National Futures Association (NFA)
+  Commodity Futures Trading Commission (CFTC)
+  Cayman Islands Monetary Authority (CIMA)
+
+FUND STRUCTURE 
+"Mutual Fund"
+"Money Market Fund"
+
+FUNDS
+Hashnote International Feeder Fund
+Hashnote Feeder Fund
+  Onboarded as US individuals or entities that are Qualified Eligible Participants (QEP) under CFTC regulations
+Hashnote Short Duration Yield Fund (SDYF)
+  Onboarded as an international investor
+
+
+NOTES
+US funds = regulated by CFTC? 
+offshore funds = cayman islands monetary authority 
+
+
+
+
+High-Level Process
+1 Connect with a Hashnote representative 
+2 Create a portal account on the Investor Portal
+3 Complete onboarding questionnaire 
+4 Fund administrator performs KYC/AML checks based on documents provided
+5 Wallet screening provider whitelists wallet address provided
+6 Receive onboarding success email
+
+
+
+
