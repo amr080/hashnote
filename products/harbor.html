@@ -124,74 +124,9 @@
 
 <script>
   (function() {
-    if (window.location.pathname === '/privacy-policy') {
-      document.body.style.display = 'block';
-      return;
-    }
-	var SKIP_IPS = [
-   		'194.36.97.35',
-  		'3.234.167.213',
-  		'35.172.28.62',
-  		'204.236.228.46',
-  		'212.59.69.49',
-  		'131.226.33.187',
-  		'131.226.37.142',
-  		'131.226.36.220',
-  		'207.246.76.16',
-  		'137.184.96.144',
-  		'207.148.23.222',
-  		'198.199.115.68',
-  		'198.199.104.192',
-  		'159.223.90.105',
-  		'68.183.127.24',
-  		'198.199.114.16',
-  		'131.226.46.176',
-  		'64.226.132.218',];
-    var overlay = document.getElementById('usPromptOverlay');
-    var yesButton = document.getElementById('usYesButton');
-    var noButton = document.getElementById('usNoButton');
-    document.body.style.display = 'none';
-
-    fetch("https://ipwhois.pro/?key=fYIjS7zoAaEfTp66")
-      .then(function(response) { return response.json(); })
-      .then(function(data) {
-        var skipCheck = SKIP_IPS.includes(data.ip);
-        if (!skipCheck && data.country_code === "US") {
-          localStorage.setItem("clientIsUSBased", "true");
-          window.location.href = "https://portal.hashnote.com";
-          return;
-        }
-        var clientIsUSBased = localStorage.getItem("clientIsUSBased");
-        if (skipCheck) {
-          localStorage.removeItem("clientIsUSBased");
-          overlay.style.display = "flex";
-        } else {
-          if (clientIsUSBased === null) {
-            overlay.style.display = "flex";
-          } else if (clientIsUSBased === "true") {
-            window.location.href = "https://portal.hashnote.com";
-            return;
-          } else {
-            overlay.style.display = "none";
-          }
-        }
-        document.body.style.display = 'block';
-      })
-      .catch(function() {
-        overlay.style.display = "flex";
-        document.body.style.display = 'block';
-      });
-
-    yesButton.addEventListener("click", function() {
-      localStorage.setItem("clientIsUSBased", "true");
-      window.location.href = "https://portal.hashnote.com";
-    });
-
-    noButton.addEventListener("click", function() {
-      localStorage.setItem("clientIsUSBased", "false");
-      overlay.style.display = "none";
-    });
-  })();
+    // Just display the page immediately
+    document.body.style.display = 'block';
+})();
 </script>
 
 </head><body><div class="page-wrapper"><img src="https://cdn.prod.website-files.com/636c603534d44ac26b4891e0/66d21d3cf0ca2a70342dd669_bg-blur_wealth%20(1).svg" loading="lazy" alt="" class="bg-product-blur"/><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav"><div class="nav-container w-container"><a href="../index.html" class="brand w-nav-brand"><img src="https://cdn.prod.website-files.com/636c603534d44ac26b4891e0/659442a9e25323ca0e4941fa_Hashnote-wide.svg" loading="lazy" alt=""/></a><div class="div-spacer tablet-spacer"></div><nav role="navigation" class="nav-menu w-nav-menu"><div data-hover="false" data-delay="0" data-w-id="9f6df239-f0b7-047d-c5d6-bb7083e3b481" class="nav-button-dropdown w-dropdown"><div data-w-id="9f6df239-f0b7-047d-c5d6-bb7083e3b482" class="nav-dropdown-toggle w-dropdown-toggle"><div>Products</div><div data-w-id="6b935a34-2859-bddd-122d-f0ff7f941063" class="w-embed"><svg width="25" height="18" viewBox="0 0 25 18" fill="none" xmlns="http://www.w3.org/2000/svg">

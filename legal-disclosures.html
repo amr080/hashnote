@@ -9,70 +9,12 @@
 </script>
 
 <!-- Custom script for IP check and redirect -->
-<style>
-  body {
-    display: none;
-  }
-  #usPromptOverlay * {
-    font-family: "Plus Jakarta Sans", sans-serif;
-  }
-  #usPromptOverlay {
-    position: fixed;
-    top: 0; right: 0; bottom: 0; left: 0;
-    display: none;
-    z-index: 9999;
-    background: rgba(0, 0, 0, 0.8);
-    overflow-y: auto;
-    align-items: center;
-    justify-content: center;
-  }
-  .usPromptContainer {
-    background: #fff;
-    border-radius: 0.5rem;
-    padding: 1.5rem; 
-    margin: 2rem;
-    max-width: 1000px;
-    width: 90%;
-    text-align: center;
-  }
-  .usTitle {
-    margin-bottom: 1rem; 
-    font-size: 1.25rem; 
-    font-weight: 600;
-    line-height: 1.75rem;
-  }
-  .usTextBlock {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
-    text-align: left; 
-    margin-bottom: 1rem; 
-    max-height: 50vh; 
-    overflow-y: auto;
-  }
-  .usButtonRow {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    margin-top: 1rem;
-  }
-  .usButton {
-    padding: 0.5rem 1rem;
-    border-radius: 0.5rem;
-    border: none;
-    color: #fff;
-    cursor: pointer;
-  }
-  .usButtonYes {
-    background: #002855;
-  }
-  .usButtonYes:hover,
-  .usButtonNo:hover {
-    opacity: 0.8;
-  }
-  .usButtonNo {
-    background: #ef4444;
-  }
-</style>
+<script>
+  (function() {
+    // Just display the page immediately
+    document.body.style.display = 'block';
+})();
+</script>
 
 <div id="usPromptOverlay">
   <div class="usPromptContainer">
