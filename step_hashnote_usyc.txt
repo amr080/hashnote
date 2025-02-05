@@ -1,0 +1,21 @@
+LINK
+https://forum.arbitrum.foundation/t/hashnote-usyc-step-application/23587
+
+
+Hashnote International Short Duration Yield Fund Ltd (iSDYF)
+Address (Headquarters): 407 Lincoln Road, Suite 6H PMB 1146a
+City, State, Postal Code: Miami, Florida, 33139
+Country: USA
+
+
+
+Subscription:
+Once the DAO finishes onboarding, Hashnote will display an address for the DAO to deposit funds. Hashnote will accept pyUSD, USDT or USDC as subscription assets. Once Hashnote receives the subscription stablecoins, Hashnote will leverage trade desks and stablecoin issuers to convert the stablecoins into fiat currency which will then be deposited into the Marex Prime Brokerage account (UK jurisdiction) owned by iSDYF (Caymans jurisdiction). Via our prime brokerage, Hashnote will enter into reverse repo agreements and houses collateral in Bank of New York Mellon. Hashnote will then mint USYC as the DAO’s ownership representation in the DAO treasury’s multi-sig.
+
+Redemption:
+Once the DAO wishes to redeem, Hashnote will redeem the underlying in BNY via Marex, convert the fiat to stablecoins, and send the stablecoins to the same address the DAO subscribes with. Investors in iSDYF can receive the redemption in pyUSD on the Ethereum Mainnet with an instant redemption free of charge for up to 20% of Hashnote’s AUM in USYC at any time into pyUSD. Manual redemptions requested before 2pm ET are processed T+0. Manual redemptions after 2pm ET are processed for T + 1 redemption.
+
+Regulatory information about USYC:
+Hashnote International Short Duration Yield Fund Ltd (“HISDYF”) is a mutual fund registered with the Cayman Islands Monetary Authority (CIMA) (CIMA Registration #: 2055432) that deploys investment strategies to earn approximately the effective Federal funds rate and provide intra-day liquidity. HISDYF invests in short-dated U.S. Treasury securities and repo/reverse repo transactions through its U.S. prime broker.
+
+
