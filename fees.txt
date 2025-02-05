@@ -1,0 +1,27 @@
+Fees
+Subscription Fee
+Currency
+Fee
+PYUSD
+None
+USDC
+None
+USDT
+0.10%
+Redemption Fee
+Currency
+Fee
+PYUSD
+None
+USDC
+0.10%
+
+Performance Fee
+10% of Yield
+
+Additional fees apply for using the Private Liquidity Teller (PLT). 
+For more information, please contact us at support@hashnote.com. 
+
+
+
+https://usyc.docs.hashnote.com/overview/fees
