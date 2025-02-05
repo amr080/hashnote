@@ -1,0 +1,21 @@
+HASHNOTE USYC TERMS
+Token name: USYC
+Entity: Hashnote International Short Duration Yield Fund Ltd. (“SDYF”)
+Website: https://usyc.hashnote.com 
+Token standard: ERC-20
+Network: Ethereum
+Type: On-chain. Short-term risk free
+Underlying asset: Reverse repo (RRP) and U.S. Government backed securities
+Liquidity: instant, same day (T+0) or the next day (T+1) based on amount and redemption currency
+Currency: pyUSD, USDC, USDT, USD (fiat)
+Yield: 4.774% Est. Yield (Net of Fees)
+AUM: $259,642,932.13 AUM  September 11, 2024 (UTC) (usyc.hashnote.com)
+Regulators: CFTC, CIMA
+Overview: Steakhouse Financial Overview of USYC
+Subscription Fee: None for fiat, PYUSD and USDC // 0.10% for USDT
+Redemption Fee: None for fiat, PYUSD and USDT // 0.10% for USDC
+Performance Fee: 10% of Yield.
+
+SOURCE
+[USYC] Collateral Application - Hashnote’s US Yield Coin
+https://forum.sky.money/t/usyc-collateral-application-hashnote-s-us-yield-coin/25050/1
