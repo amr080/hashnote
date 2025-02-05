@@ -1,0 +1,9 @@
+{
+    "name": "Hashnote Management LLC",
+    "short_name": "Hashnote",
+    "description": "Illegal Stablecoin USYC",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
