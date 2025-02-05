@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hashnote-usyc.netlify.app/sitemap.xml
