@@ -1,0 +1,13 @@
+ENTER AND EXIT HASHNOTE USYC FLOWS VIA ETHERSCAN UI NO CODE REQUIRED  
+Etherscan provides a UI for purchasing USYC with USDC. The Teller contract address is `0x5C73E1cfdD85b7f1d608F7F7736fC8C653513B7A` and can be found at this URL. Before buying the token you will need to ensure that the portal contract has sufficient allowance to spend your USYC. 
+Buy Allowance
+Navigate to the USDC contract and click on the Write Proxy tab. Scroll down the approve function and enter the Teller address (0x5C73E1cfdD85b7f1d608F7F7736fC8C653513B7A) into the spender field and enter the amount of USDC you would like to spend to purchase USYC.
+Purchase USYC
+Navigate to the Teller contract and click on the Write Proxy tab. Scroll down to the buy function. Enter the amount of USDC you wish to spend on the purchase.
+Sell Allowance
+Navigate to the USYC contract and click on the Write Proxy tab. Scroll down the approve function and enter the Teller address (0x5C73E1cfdD85b7f1d608F7F7736fC8C653513B7A) into the spender field and enter the amount of USYC you will be selling.
+Sell USYC
+Navigate to the Teller contract and click on the Write Proxy tab. Scroll down to the sell function. Enter the amount of USYC you wish to sell.
+
+
+
